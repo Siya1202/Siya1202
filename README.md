@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siya1202
-- 👀 I’m interested in coding,sketing,photography .
+- 👀 I’m interested in coding,sketching,photography .
 - 🌱 I’m currently learning jsx
 - 📫 How to reach me siya1202@gmail.com
 
